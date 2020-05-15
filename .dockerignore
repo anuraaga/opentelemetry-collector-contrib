@@ -1,0 +1,30 @@
+Dockerfile
+
+local/
+
+# GoLand IDEA
+/.idea/
+*.iml
+
+# VS Code
+.vscode
+
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+bin/
+
+# Emacs
+*~
+\#*\#
+
+# Miscellaneous files
+*.sw[op]
+*.DS_Store
+
+# Coverage
+coverage.txt
+coverage.html
